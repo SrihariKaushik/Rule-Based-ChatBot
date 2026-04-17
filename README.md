@@ -1,2 +1,5 @@
 # Rule-Based-ChatBot
 A rule-based chatbot is a conversational agent that operates based on a predefined set of rules and patterns. It relies on a script or a flow chart to understand user input and generate responses. It is a conversational agent that operates on a fixed set of predefined instructions, often following a "if-this-then-that" logic.
+
+# Rule-Based-ChatBot-Assignment-2
+This chatbot is a rule-based assistant designed for a college library that interacts with students through predefined logical paths using if-else conditions. It addresses the specific needs of a library setting by providing operational hours and calculating overdue fines using mathematical formulas based on user input. To ensure the program remains stable, it incorporates exception handling via a try-except block, which catches non-numeric inputs and prevents the system from crashing during calculations. By combining these elements, the bot offers a structured, reliable, and user-friendly way for students to manage their library accounts and inquiries.
